@@ -1,0 +1,6 @@
+# Time Taken:
+    ## Jaccard Index
+        -  500 sq :  38s
+        -  700 sq :  56s
+        -  900 sq :  99s
+        - 1000 sq : 122s
