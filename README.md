@@ -14,8 +14,12 @@
     - [ ] Kendall's
     - [x] Spearman's
 - [ ] NLP for the descriptions of each title against every title:
-    - Tf-Idf - Scikit Learn
-    - Tf-Idf - Tensorflow
-    - Soft/ Cosine similarity
-    - Jaccard Index
-    - Sorensen-Dice coefficient
+    - [ ] Tf-Idf - Scikit Learn
+    - [ ] Tf-Idf - Tensorflow
+    - [ ] Soft/ Cosine similarity
+    - [x] Jaccard Index
+    - [ ] Sorensen-Dice coefficient
+- [ ] Add options to reorder the recommendations based on:
+    - Genre
+    - Cast
+    - Director
